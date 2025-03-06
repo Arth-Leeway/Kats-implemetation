@@ -31,14 +31,14 @@ pip install kats
 
 ###3️⃣ Downgrade packaging to Version 21.3
 Kats requires a specific version of packaging. To resolve compatibility issues, downgrade it:
-
-##✅ Reference for version change:
-StackOverflow Solution
-Downgrade Guide
+#✅ Reference for version change:
+StackOverflow Solution - https://stackoverflow.com/questions/74766701/error-while-using-kats-module-packaging-version-has-no-attribute-legacyversion
+Downgrade Guide - https://tuxthink.blogspot.com/2020/05/anaconda-downgrade-tensorflow-verrsion.html
 
 ###4️⃣ Ensure Compatibility of Prophet and Holiday Packages
 To avoid errors, also downgrade prophet and holiday to their legacy versions:
 
+![image](https://github.com/user-attachments/assets/16b0b3cc-e405-48f0-9425-63dc86b1092c)
 
 
 ###📊 Using Kats Library
