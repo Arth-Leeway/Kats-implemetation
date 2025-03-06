@@ -33,7 +33,7 @@ pip install kats
 ### 3️⃣ Downgrade packaging to Version 21.3
 Kats requires a specific version of packaging. To resolve compatibility issues, downgrade it:
 
-# ✅ Reference for version change:
+### ✅ Reference for version change:
 StackOverflow Solution - https://stackoverflow.com/questions/74766701/error-while-using-kats-module-packaging-version-has-no-attribute-legacyversion
 Downgrade Guide - https://tuxthink.blogspot.com/2020/05/anaconda-downgrade-tensorflow-verrsion.html
 
